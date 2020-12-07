@@ -1,7 +1,7 @@
 | Photo | ![Display picture](Photos/Prabh.jpg) 
-| Name | Prabhnoor Singh |
+### | Name | Prabhnoor Singh | ###
 | ------ | -------- |
-  <b> Love In Photography </b>
+  # <b> Love In Photography </b> #
 | Sr.No | Types of Photoshoot |
 | 1 | Nature |
 | 2 | Sunsets |
